@@ -57,12 +57,13 @@ marketplace for West Africa built with Spring Modulith.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Juste120&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Juste120&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Juste120&theme=tokyonight" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juste120&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" width="50%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Juste120&theme=tokyonight" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Juste120&theme=tokyonight" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Juste120&theme=tokyonight" width="32%" />
 </p>
 
 ---
@@ -85,10 +86,3 @@ marketplace for West Africa built with Spring Modulith.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-pakou--komi--juste-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/pakou-komi-juste-941536314)
 [![GitLab](https://img.shields.io/badge/GitLab-Juste120-FC6D26?style=for-the-badge&logo=gitlab)](https://gitlab.com/Juste120)
 [![Email](https://img.shields.io/badge/Email-pakoujuste2019@gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:pakoujuste2019@gmail.com)
-```
-
----
-
-**Et pour la bio GitHub (Edit profile) :**
-```
-Full Stack Developer | Spring Boot · Angular · PostgreSQL | DevOps Enthusiast | Based in Lomé, Togo 🇹🇬
