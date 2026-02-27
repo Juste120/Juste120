@@ -54,8 +54,12 @@ marketplace for West Africa built with Spring Modulith.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Juste120&show_icons=true&theme=default&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juste120&layout=compact&theme=default&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Juste120&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Juste120&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juste120&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="50%" />
 </p>
 
 ---
