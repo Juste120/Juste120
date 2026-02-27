@@ -28,12 +28,15 @@ marketplace for West Africa built with Spring Modulith.
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
 
 **Frontend**
 
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![PrimeNG](https://img.shields.io/badge/PrimeNG-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
 **Database**
 
@@ -47,19 +50,19 @@ marketplace for West Africa built with Spring Modulith.
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Juste120&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Juste120&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Juste120&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juste120&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juste120&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" width="50%" />
 </p>
 
 ---
@@ -82,3 +85,10 @@ marketplace for West Africa built with Spring Modulith.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-pakou--komi--juste-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/pakou-komi-juste-941536314)
 [![GitLab](https://img.shields.io/badge/GitLab-Juste120-FC6D26?style=for-the-badge&logo=gitlab)](https://gitlab.com/Juste120)
 [![Email](https://img.shields.io/badge/Email-pakoujuste2019@gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:pakoujuste2019@gmail.com)
+```
+
+---
+
+**Et pour la bio GitHub (Edit profile) :**
+```
+Full Stack Developer | Spring Boot · Angular · PostgreSQL | DevOps Enthusiast | Based in Lomé, Togo 🇹🇬
