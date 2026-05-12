@@ -16,7 +16,7 @@ marketplace for West Africa built with Spring Modulith.
 - 🌱 Currently learning **Redis · Kubernetes · CI/CD**
 - 💬 Ask me about **Spring Boot, Angular, PostgreSQL, Docker**
 - 📫 Reach me at **pakoujuste2019@gmail.com**
-- 🌐 Portfolio : **[pakoujuste.vercel.app](https://pakoujuste.vercel.app)**
+- 🌐 Portfolio : **[portfolio.pakoujuste.com](https://portfolio.pakoujuste.com)**
 
 ---
 
